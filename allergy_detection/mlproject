@@ -1,0 +1,68 @@
+name: allergy_detection
+
+conda_env: ../conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      file_path: {type: str, default: "data/compare_WHO_foods.csv"}
+      cleaned_data_path: {type: str, default: "data/cleaned_data.csv"}
+      selected_columns: {type: str, default: "CommonName,Description,Allergen"}
+      selected_features_path: {type: str, default: "data/selected_features.csv"}
+      concatenated_data_path: {type: str, default: "data/concatenated_data.csv"}
+      embeddings_output_path: {type: str, default: "data/embeddings.csv"}
+      model_name: {type: str, default: "all-MiniLM-L12-v2"}
+      mongo_uri: {type: str, default: "mongodb://localhost:27017/"}
+      database: {type: str, default: "Plevenn_ML"}
+      collection: {type: str, default: "allergenEmbeddings"}
+    command: > 
+      python main.py 
+      --file_path {file_path} 
+      --cleaned_data_path {cleaned_data_path}
+      --selected_columns {selected_columns}
+      --selected_features_path {selected_features_path}
+      --concatenated_data_path {concatenated_data_path}
+      --embeddings_output_path {embeddings_output_path}
+      --model_name {model_name}
+      --mongo_uri {mongo_uri}
+      --database {database}
+      --collection {collection}
+
+  ingest:
+    command: "python src/ingestion/data_loader.py --file_path {file_path}"
+    parameters:
+      file_path: {type: str, default: "data/compare_WHO_foods.csv"}
+
+  select_features:
+    command: "python src/preprocessing/feature_extractor.py --file_path {file_path} --selected_columns {selected_columns} --selected_features_path {selected_features_path}"
+    parameters:
+      file_path: {type: str, default: "data/compare_WHO_foods.csv"}
+      selected_columns: {type: str, default: "CommonName,Description,Allergen"}
+      selected_features_path: {type: str, default: "data/selected_features.csv"}
+
+  preprocess:
+    command: "python src/preprocessing/cleaner.py --file_path {file_path} --cleaned_data_path {cleaned_data_path}"
+    parameters:
+      file_path: {type: str, default: "data/selected_features.csv"}
+      cleaned_data_path: {type: str, default: "data/cleaned_data.csv"}
+
+  concatenate:
+    command: "python src/preprocessing/concatenator.py --file_path {file_path} --output_file {output_file}"
+    parameters:
+      file_path: {type: str, default: "data/cleaned_data.csv"}
+      output_file: {type: str, default: "data/concatenated_data.csv"}
+
+  transform:
+    command: "python src/transformation/transformer.py --file_path {file_path} --output_path {output_path} --model_name {model_name}"
+    parameters:
+      file_path: {type: str, default: "data/concatenated_data.csv"}
+      output_path: {type: str, default: "data/embeddings.csv"}
+      model_name: {type: str, default: "all-MiniLM-L12-v2"}
+
+  embeddings:
+    command: "python src/publishing/embeddings_saver.py --file_path {file_path} --mongo_uri {mongo_uri} --database {database} --collection {collection}"
+    parameters:
+      file_path: {type: str, default: "data/embeddings.csv"}
+      mongo_uri: {type: str, default: "mongodb://localhost:27017/"}
+      database: {type: str, default: "Plevenn_ML"}
+      collection: {type: str, default: "allergenEmbeddings"}

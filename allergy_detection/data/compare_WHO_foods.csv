@@ -1,0 +1,433 @@
+Allergen,BiochemicalName,MW(SDS-PAGE),AllergenExposure,CommonName,Description
+Act c 10,nsLTP1,10 kDa,Food,gold kiwifruit,"lipid transfer protein, partial"
+Act c 5,Kiwellin,28 kDa,Food,gold kiwifruit,kiwellin
+Act c 8,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa,Food,gold kiwifruit,"pathogenesis related protein, PR-10, Bet v 1-like"
+Act d 1,Cysteine protease (actinidin),30 kDa,Food,green kiwifruit,actinidin
+Act d 1,Cysteine protease (actinidin),30 kDa,Food,gold kiwifruit,actinidin
+Act d 10,nsLTP1,10 kDa,Food,green kiwifruit,lipid transfer protein
+Act d 11,"Major latex protein/ripening-related protein (MLP/RRP), Bet v 1 family member",17 kDa,Food,green kiwifruit,"pathogenesis related protein, PR-10, Bet v 1-like"
+Act d 12,"Cupin, 11S globulin seed storage protein","50,207.304 Da (mass spectrometry of Act d 12.0101)",Food,green kiwifruit,"11S globulin, cupin, partial"
+Act d 2,Thaumatin-like protein,24 kDa,Food,green kiwifruit,thaumatin-like
+Act d 3,,40 kDa,Food,green kiwifruit,"unknown function, partial from P85063.3"
+Act d 4,Phytocystatin,11 kDa,Food,green kiwifruit,phytocystatin
+Act d 5,Kiwellin,28 kDa,Food,green kiwifruit,kiwellin
+Act d 5,Kiwellin,28 kDa,Food,green kiwifruit,"kiwellin, partial"
+Act d 8,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa,Food,green kiwifruit,"pathogenesis related protein, PR-10, Bet v 1-like"
+Act d 9,Profilin,14 kDa,Food,green kiwifruit,profilin
+Ana c 1,Profilin,15 kDa,Food,pineapple,profilin
+Ana c 2,Bromelain,22.8 kDa,Food,pineapple,"bromelain, sulfhydryl protease"
+Ana o 1,Vicilin-like protein,50 kDa,Food,cashew,"7S globulin, vicilin-like"
+Ana o 2,Legumin-like protein,55 kDa,Food,cashew,"11S globulin, glycinin, cupin"
+Ana o 3,2S albumin,14 kDa,Food,cashew,"2S albumin, conglutin"
+Ani s 1,"unknown function, similar to Kunitz serine protease inhibitors",24 kDa,Food,parasitic fish worm,serine protease inhibitor
+Ani s 10,Protein with unknown function,21 kDa,Food,parasitic fish worm,unknown function 
+Ani s 11,Protein with unknown function,27 kDa,Food,parasitic fish worm,unknown function 
+Ani s 11,Protein with unknown function,27 kDa,Food,parasitic fish worm,"unknown function, partial"
+Ani s 11,Protein with unknown function,27 kDa,Food,parasitic fish worm,unknown function
+Ani s 12,Protein with unknown function,31 kDa,Food,parasitic fish worm,unknown function 
+Ani s 12,Protein with unknown function,31 kDa,Food,parasitic fish worm,unknown function
+Ani s 14,3rd stage larval protein unknown function,"24 kDa as deduced, 27 kDa on gel with His-tag",Food,parasitic fish worm,unknown function
+Ani s 2,Paramyosin,97 kDa,Food,parasitic fish worm,"paramyosin, partial"
+Ani s 2,Paramyosin,97 kDa,Food,parasitic fish worm,paramyosin
+Ani s 3,Tropomyosin,41 kDa,Food,parasitic fish worm,tropomyosin
+Ani s 4,Cysteine protease inhibitor,9 kDa,Food,parasitic fish worm,cysteine protease inhibitor
+Ani s 5,SXP/RAL-2 family protein,15 kDa,Food,parasitic fish worm,SXP/RAL-2 family protein
+Ani s 6,Serine protease inhibitor,,Food,parasitic fish worm,serine protease inhibitor
+Ani s 7,,139 kDa,Food,parasitic fish worm,unknown function
+Ani s 8,SXP/RAL-2 family protein,15 kDa,Food,parasitic fish worm,SXP/RAL-2 family protein
+Ani s 9,SXP/RAL-2 family protein,14 kDa,Food,parasitic fish worm,unknown function
+Api g 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",16 kDa,Food,celery,"pathogenesis related protein, PR-10, Bet v 1-like"
+Api g 2,"Non-specific lipid-transfer protein, type 1",9 kDa,Food,celery,lipid transfer protein
+Api g 4,Profilin,14 kDa,Food,celery,profilin
+Api g 5,FAD-containing oxidase,58 kDa,Food,celery,FAD-containing oxidase
+Api g 6,Non-specific lipid transfer protein type 2,7 kDa,Food,celery,lipid transfer protein
+Api g 7,Defensin like protein 1,12 kDa,Food,celery,defensin
+Ara h 1,"Cupin (Vicillin-type, 7S globulin)",64 kDa,Food,peanut,"7S globulin, vicilin"
+Ara h 1,"Cupin (Vicillin-type, 7S globulin)",64 kDa,Food,peanut,"7S globulin, vicilin, partial"
+Ara h 10,oleosin,16 kDa,Food,peanut,oleosin
+Ara h 11,oleosin,14 kDa,Food,peanut,oleosin
+Ara h 12,Defensin,"8 kDa (reducing), 12 kDa (non-reducing), 5.184 kDa (mass)",Food,peanut,defensin
+Ara h 13,Defensin,"8 kDa (reducing), 11 kDa (non-reducing), 5.472 kDa (mass)",Food,peanut,defensin
+Ara h 14,Oleosin,17.5 kDa,Food,peanut,"oleosin, partial from Q9AXI1.1, Q9AXI0.1, Q6J1J8.1"
+Ara h 14,Oleosin,17.5 kDa,Food,peanut,"oleosin, partial from Q9AXI1.1, Q6J1J8.1"
+Ara h 14,Oleosin,17.5 kDa,Food,peanut,"oleosin, partial from Q9AXI0.1"
+Ara h 15,Oleosin,17 kDa,Food,peanut,oleosin
+Ara h 18,"Cyclophilin, peptidyl-prolyl cis-trans isomerase",21 kDa,Food,peanut,cyclophilin/peptidyl-prolyl isomerase
+Ara h 2,Conglutin (2S albumin),17 kDa,Food,peanut,"2S albumin, conglutin"
+Ara h 3,"Cupin (Legumin-type, 11S globulin, Glycinin)","60 kDa, 37 kDa (fragment)",Food,peanut,"11S globulin, cupin"
+Ara h 3,"Cupin (Legumin-type, 11S globulin, Glycinin)","60 kDa, 37 kDa (fragment)",Food,peanut,"11S globulin, cupin, partial"
+Ara h 5,Profilin,15 kDa,Food,peanut,profilin
+Ara h 6,Conglutin (2S albumin),15 kDa,Food,peanut,"2S albumin, conglutin"
+Ara h 7,Conglutin (2S albumin),15 kDa,Food,peanut,"2S albumin, conglutin"
+Ara h 8,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa,Food,peanut,"pathogenesis related protein, PR-10, Bet v 1-like"
+Ara h 9,Nonspecific lipid-transfer protein type 1,9.8 kDa,Food,peanut,lipid transfer protein
+Asc l 13,Glutathione S-transferase (GST),23 kDa,Food,parasitic roundworm,"glutathione S-transferase, partial"
+Asc l 3,Tropomyosin,40 kDa,Food,parasitic roundworm,tropomyosin
+Asc s 1,,10 kDa,Food,parasitic roundworm,unknown function
+Asc s 1,,10 kDa,Food,parasitic roundworm,"unknown function, partial"
+Ber e 1,2S sulfur-rich seed storage albumin,9 kDa,Food,Brazil nut,"2S albumin, conglutin"
+Ber e 2,11S globulin seed storage protein,29 kDa,Food,Brazil nut,"11S globulin, cupin"
+Bomb m 1,Arginine kinase,42 kDa,Food,silkworm,arginine kinase
+Bomb m 3,Tropomyosin,38 kDa,Food,silkworm,tropomyosin
+Bomb m 4,30 kDa hemolypmh lipoprotein PBMHP-6,30 kDa,Food,silkworm,unknown function
+Bos d 10,alphaS2-casein,25.2 kDa,Food,cow,alphaS2-casein
+Bos d 11,beta-casein,24 kDa,Food,cow,beta-casein
+Bos d 12,kappa-casein,19 kDa,Food,cow,kappa-casein
+Bos d 13,Myosin light chain,21 kDa,Food,cow,myosin light chain
+Bos d 4,Alpha-lactalbumin,14.2 kDa,Food,cow,alpha-lactalbumin
+Bos d 5,Beta-lactoglobulin,18.3 kDa,Food,cow,beta-lactoglobulin
+Bos d 5,Beta-lactoglobulin,18.3 kDa,Food,cow,"beta-lactoglobulin, partial"
+Bos d 6,Serum albumin,67 kDa,Food,cow,serum albumin
+Bos d 9,alphaS1-casein,23.6 kDa,Food,cow,"alphaS1-casein, partial"
+Bos d 9,alphaS1-casein,23.6 kDa,Food,cow,alphaS1-casein
+Bra j 1,2S albumin seed storage protein,14 kDa,Food,mustard,"2S albumin, conglutin"
+Bra n 1,2S albumin seed storage protein,15 kDa,Food,rape,"2S albumin, conglutin"
+Bra r 1,"2S albumin, napins",10-14 kDa,Food,turnip,"2S albumin, conglutin"
+Bra r 2,Prohevein homologue,25 kDa,Food,turnip,chitin-binding protein
+Cal b 2,Arginine kinase,40 kDa,Food,brown crab,"arginine kinase, partial from UVH30529.1"
+Cap a 1,Osmotin-like protein (thaumatin-like protein),23 kDa,Food,bell pepper,thaumatin-like
+Cap a 2,Profilin,14 kDa,Food,bell pepper,profilin
+Cap a 7,"Gibberellin-regulated protein, snakin",10 kDa reducing; 12 kDa non-reducing,Food,pepper,gibberellin-regulated protein
+Car i 1,2S albumin seed storage protein,16 kDa,Food,pecan,"2S albumin, conglutin"
+Car i 2,Vicilin-like seed storage protein; 7S globulin,55 kDa,Food,pecan,"7S globulin, vicilin-like"
+Car i 4,Legumin seed storage protein; 11S globulin,Subunit of hexameric protein: 55.4 kDa,Food,pecan,"11S globulin, cupin"
+Cari p 1,endo-polygalacturonase,57 kDa,Food,papaya,polygalacturonase
+Cari p 2,Chymopapain; member of the papain-like cysteine protease (petidase C1) family,28 kDa,Food,papaya,"cysteine protease, papain"
+Cas s 5,Chitinase class I,,Food,European chestnut,chitinase 
+Cas s 5,Chitinase class I,,Food,European chestnut,chitinase
+Cha f 1,Tropomyosin,34 kDa,Food,crab,tropomyosin
+Cit l 3,Non-specific lipid-transfer protein type 1,9.6 kDa (MALDI-TOF MS),Food,lemon,lipid transfer protein
+Cit s 1,Germin-like protein,23 kDa,Food,orange,"germin-like, partial"
+Cit s 2,Profilin,14 kDa,Food,orange,profilin
+Cit s 3,Non-specific lipid-transfer protein type 1,9.46 kDa (MALDI-TOF MS),Food,orange,lipid transfer protein
+Cit s 7,"Gibberellin regulated protein, peamaclein",8 kDa,Food,orange,"gibberellin-regulated protein, partial"
+Citr l 2,Profilin,14 kDa,Food,watermelon,profilin
+Clu h 1,Beta-parvalbumin,12 kDa,Food,Atlantic herring,"calcium-binding protein, parvalbumin"
+Cor a 11,7S seed storage globulin (vicilin-like),48 kDa,Food,European hazelnut,"7S globulin, vicilin-like"
+Cor a 11,7S seed storage globulin (vicilin-like),48 kDa,Food,European hazelnut,"7S globulin, vicilin"
+Cor a 12,17 kDa oleosin,17 kDa,Food,European hazelnut,oleosin
+Cor a 13,14-16 kDa oleosin,14-16 kDa,Food,European hazelnut,oleosin
+Cor a 14,2S albumin,10 kDa reducing,Food,European hazelnut,"2S albumin, conglutin"
+Cor a 15,Oleosin,17 kDa,Food,European hazelnut,oleosin
+Cor a 16,7S globulin seed storage protein (vicilin) containing N-terminal alpha-hairpinin (vicilin_N) peptides,6-8 kDa and 47.5 kDa,Food,European hazelnut,"7S globulin, vicilin"
+Cor a 2,Profilin,14 kDa,Food,European hazelnut,profilin
+Cor a 8,Non-specific lipid transfer protein type 1,9 kDa,Food,European hazelnut,lipid transfer protein
+Cor a 9,11S seed storage globulin (legumin-like),40 kDa,Food,European hazelnut,"11S globulin, cupin"
+Cra a 2,Arginine kinase,38 kDa to 41 kDa,Food,Portuguese oyster,arginine kinase
+Cra a 4,Sarcoplasmic calcium binding protein,20 kDa,Food,Portuguese oyster,"calcium-binding protein, sarcoplasmic calcium-binding protein"
+Cra c 1,Tropomyosin,~38 kDa,Food,shrimp,tropomyosin
+Cra c 2,Arginine kinase,~45 kDa,Food,shrimp,arginine kinase
+Cra c 4,Sarcoplasmic calcium-binding protein,~25 kDa,Food,shrimp,"calcium-binding protein, sarcoplasmic calcium-binding protein"
+Cra c 5,"Myosin, light chain 1",~17.5 kDa,Food,shrimp,myosin light chain
+Cra c 6,Troponin C,~21 kDa,Food,shrimp,troponin C
+Cra c 8,Triosephosphate isomerase,~28 kDa,Food,shrimp,triosephosphate isomerase
+Cra g 1,tropomyosin,38 kDa,Food,American oyster,tropomyosin
+Cten i 1,Beta-parvalbumin,9 kDa,Food,grass carp,"calcium-binding protein, parvalbumin"
+Cuc m 1,Alkaline serine protease (cucumisin),67 kDa,Food,muskmelon,"serine protease, cucumisin"
+Cuc m 2,Profilin,14 kDa,Food,muskmelon,profilin
+Cuc m 3,Pathogenesis-related protein PR-1,17 kDa,Food,muskmelon,"pathogenesis related protein, PR-1"
+Cuc ma 4,11S globulin,50 kDa non reducing; 35 kDa and 23 kDa reducing,Food,winter squash,"11S globulin, glycinin, cupin, partial from P13744.1"
+Cuc ma 5,2S albumin,14 kDa,Food,winter squash,"2S albumin, conglutin, partial from Q39649.1"
+Cyp c 1,beta-parvalbumin,12 kDa,Food,carp,"calcium-binding protein, parvalbumin"
+Cyp c 2,beta enolase,47 kDa,Food,carp,beta-enolase
+Dau c 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",16 kDa,Food,carrot,"pathogenesis related protein, PR-10, Bet v 1-like"
+Dau c 4,Profilin,14 kDa,Food,carrot,profilin
+Dau c 5,Isoflavone reductase-like protein,33 kDa,Food,carrot,"isoflavon reductase-like protein, phenylcoumaran benzylic ether reductase"
+Eri s 2,ovary development-related protein,28.2 kDa,Food,Chinese mitten crab,ovary development-related protein
+Exo m 1,Tropomyosin,38 kDa,Food,white legged freshwater shrimp,tropomyosin
+Fag e 2,2S albumin,16 kDa,Food,buckwheat,"2S albumin, conglutin"
+Fag e 3,alpha-hairpinin,19 kDa (fragment),Food,buckwheat,"7S globulin, vicilin-like, partial"
+Fag e 4,Hevein-like antimicrobial peptide,3.9 kDa,Food,buckwheat,"antimicrobial peptide, partial from P0DKH7.1"
+Fag e 5,Vicilin-like protein,55 kDa,Food,buckwheat,"8S globulin, vicilin"
+Fag t 2,2S albumin,16 kDa,Food,Tataricum buckwheat,"2S albumin, conglutin"
+Fag t 6,Oleosin,18 kDa,Food,Tataricum buckwheat,"oleosin, partial from QZM06934.1"
+Fra a 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",18 kDa,Food,strawberry,"pathogenesis related protein, PR-10, Bet v 1-like"
+Fra a 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",18 kDa,Food,strawberry,"pathogenesis related protein, PR-10, Bet v 1-like, partial"
+Fra a 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food,strawberry,lipid transfer protein
+Gad c 1,Beta-parvalbumin,12 kDa,Food,Baltic cod,"calcium-binding protein, parvalbumin"
+Gad m 1,Beta-parvalbumin,12 kDa,Food,Atlantic cod,"calcium-binding protein, parvalbumin"
+Gad m 2,Beta-enolase,47.3 kDa,Food,Atlantic cod,enolase
+Gad m 3,Aldolase A,40 kDa,Food,Atlantic cod,aldolase
+Gal d 1,Ovomucoid,28 kDa,Food,chicken,ovomucoid
+Gal d 10,Aldolase,,Food,chicken,"aldolase, partial"
+Gal d 2,Ovalbumin,44 kDa,Food,chicken,ovalbumin
+Gal d 3,Ovotransferrin,78 kDa,Food,chicken,ovotransferrin
+Gal d 4,Lysozyme C,14 kDa,Food,chicken,lysozyme
+Gal d 5,Serum albumin,69 kDa,Food,chicken,serum albumin
+Gal d 6,YGP42,35 kDa,Food,chicken,"vitellogenin, partial"
+Gal d 7,Myosin light chain 1f,22 kDa,Food,chicken,myosin light chain
+Gal d 8,alpha-parvalbumin,11.8 kDa,Food,chicken,"calcium-binding protein, parvalbumin"
+Gal d 9,Beta-enolase,50 kDa,Food,chicken,"beta-enolase, partial from P07322.3"
+Gal d 9,Beta-enolase,50 kDa,Food,chicken,"beta-enolase, partial"
+Gly m 3,Profilin,14 kDa,Food,soybean,profilin
+Gly m 4,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa,Food,soybean,"pathogenesis related protein, PR-10, Bet v 1-like"
+Gly m 5,"Beta-conglycinin (vicilin, 7S globulin)",see subunits,Food,soybean,"7S globulin, vicilin, beta-conglycinin"
+Gly m 5,"Beta-conglycinin (vicilin, 7S globulin)",see subunits,Food,soybean,"7S globulin, vicilin, beta-conglycinin, partial"
+Gly m 6,"Glycinin (legumin, 11S globulin)",see subunits,Food,soybean,"11S globulin, glycinin, cupin"
+Gly m 7,Seed biotinylated protein,76.2 kDa,Food,soybean,seed biotinylated protein 
+Gly m 8,2S albumin,28 kDa,Food,soybean,"2S albumin, conglutin"
+Hel a 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food,sunflower,lipid transfer protein
+Hel as 1,Tropomyosin,36 kDa,Food,brown garden snail,tropomyosin
+Hom a 1,Tropomyosin,34 kDa,Food,American lobster,tropomyosin 
+Hor v 15,Alpha-amylase inhibitor BMAI-1 precursor,14.5 kDa,Food,barley,"alpha-amylase inhibitor, partial"
+Hor v 20,Gamma-hordein 3,34 kDa,Food,barley,gamma-hordein-3
+Hor v 20,Gamma-hordein 3,34 kDa,Food,barley,"gamma-hordein-3, partial"
+Jug n 1,2S albumin seed storage protein,,Food,black walnut,"2S albumin, conglutin"
+Jug n 2,Vicilin seed storage protein; 7S globulin,,Food,black walnut,"7S globulin, vicilin-like"
+Jug n 4,Legumin-like seed storage protein; 11S globulin,"34 kDa, 22 kDa",Food,black walnut,"11S globulin, cupin"
+Jug r 1,2S albumin seed storage protein,15-16 kDa,Food,English walnut,"2S albumin, conglutin"
+Jug r 2,Vicilin (7S globulin) seed storage protein,44 kDa,Food,English walnut,"7S globulin, vicilin-like"
+Jug r 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food,English walnut,lipid transfer protein
+Jug r 4,11S globulin seed storage protein,58.1 kDa,Food,English walnut,"11S globulin, cupin"
+Jug r 5,PR-10,20 kDa,Food,English walnut,"pathogenesis related protein, PR-10, Bet v 1-like"
+Jug r 6,"7S globulin seed storage protein, vicilin-like protein",47 kDa,Food,English walnut,"7S globulin, vicilin"
+Lat c 1,Beta-parvalbumin,11.5 kDa,Food,Asian seabass,"calcium-binding protein, parvalbumin"
+Len c 1,Gamma-vicilin subunit,47 kDa,Food,lentil,"7S globulin, vicilin "
+Len c 3,Nonspecific lipid transfer protein type 1,9 kDa,Food,lentil,lipid transfer protein
+Lep w 1,Beta-parvalbumin,11.5 kDa,Food,flat fish,"calcium-binding protein, parvalbumin"
+Lin u 1,2S albumin,13 kDa; 10 kDa and 3 kDa reducing,Food,flax,"2S albumin, conlinin, partial from CAC94011.1"
+Lit c 1,Profilin,15 kDa,Food,lychee nut,profilin
+Lit v 1,Tropomyosin,36 kDa,Food,whiteleg shrimp,tropomyosin
+Lit v 13,Cytosolic fatty acid binding protein,15 kDa,Food,white shrimp,fatty acid-binding protein
+Lit v 2,Arginine kinase,40 kDa,Food,whiteleg shrimp,arginine kinase
+Lit v 3,"Myosin, light chain 2",20 kDa,Food,whiteleg shrimp,myosin light chain
+Lit v 4,Sarcoplasmic calcium-binding protein,20 kDa,Food,whiteleg shrimp,"calcium-binding protein, sarcoplasmic calcium-binding protein"
+Lup a 5,Profilin,15 kDa,Food,white lupine,profilin
+Lup an 1,"Conglutin beta (7S seed storage globulin, vicilin)",55-61 kDa,Food,narrow-leaved blue lupine,"7S globulin, vicilin, beta-conglutin"
+Lup an 3,non-specific lipid transfer protein,11 kDa,Food,narrow-leaved blue lupine,lipid transfer protein
+Mac i 1,Vicilin,50 kDa,Food,macadamia nut,"7S globulin, vicilin-like"
+Mac i 2,Legumin,60 kDa non reducing; 20 kDa and 40 kDa reducing,Food,macadamia nut,"11s globulin, cupin, partial"
+Mac i 2,Legumin,60 kDa non reducing; 20 kDa and 40 kDa reducing,Food,macadamia nut,"11S globulin, cupin"
+Mac r 1,tropomyosin,37 kDa,Food,giant river prawn,tropomyosin
+Mal d 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17.5 kDa,Food,apple,"pathogenesis related protein, PR-10, Bet v 1-like"
+Mal d 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17.5 kDa,Food,apple,"pathogenesis related protein, PR-10, Bet v 1-like, partial"
+Mal d 2,Thaumatin-like protein,23 kDa,Food,apple,thaumatin-like
+Mal d 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food,apple,lipid transfer protein
+Mal d 4,Profilin,N.A.,Food,apple,profilin
+Man e 5,Glutamic acid rich protein,30 kDa (anomalous migration due to high P and E content),Food,cassava,"glutamic acid rich protein, Hev b 5-like"
+Man i 1,Class IV chitinase,28 kDa,Food,mango,chitinase
+Man i 2,PR-10 protein; Bet v 1-related protein,17 kDa,Food,mango,"pathogenesis related protein, PR-10, Bet v 1-like"
+Man i 4,Profilin,14 kDa,Food,mango,profilin
+Mel l 1,Tropomyosin,38 kDa,Food,Western king prawn,tropomyosin
+Met e 1,Tropomyosin,34 kDa,Food,greasyback shrimp,tropomyosin
+Mor n 3,Non-specific lipid transfer protein type 1 (nsLTP1),10 kDa,Food,black mulberry,lipid transfer protein
+Mus a 1,Profilin,15 kDa,Food,banana,profilin
+Mus a 2,Class 1 chitinase,33 kDa,Food,banana,chitinase
+Mus a 4,Thaumatin-like protein,20 kDa,Food,banana,thaumatin-like
+Mus a 5,"Beta-1,3-glucanase",30 kDa,Food,banana,"beta-1,3-glucanase"
+Onc k 5,beta-prime-component of vitellogenin,18 kDa,Food,chum salmon,"vitellogenin, partial"
+Onc m 1,Beta-parvalbumin,12 kDa,Food,rainbow trout,"calcium-binding protein, parvalbumin"
+Ore m 4,Tropomyosin,33 kDa,Food,Mozambique tilapia,tropomyosin
+Pan b 1,Tropomyosin,37 kDa,Food,northern pink shrimp,tropomyosin
+Pan s 1,Tropomyosin,34 kDa,Food,lobster,tropomyosin
+Pen m 1,tropomyosin,38 kDa,Food,black tiger shrimp,tropomyosin
+Pen m 13,Cytoplasmic fatty acid binding protein,20 kDa,Food,black tiger shrimp,fatty acid-binding protein
+Pen m 14,Glycogen phosphorylase-like protein,95 kDa,Food,black tiger shrimp,glycogen phosphorylase
+Pen m 2,arginine kinase,40 kDa,Food,black tiger shrimp,arginine kinase
+Pen m 3,Myosin light chain 2,20 kDa,Food,black tiger shrimp,myosin light chain
+Pen m 4,Sarcoplasmic calcium binding protein,20 kDa,Food,black tiger shrimp,"calcium-binding protein, sarcoplasmic calcium-binding protein"
+Pen m 6,Troponin C,16.8 kDa,Food,black tiger shrimp,troponin C
+Pen m 7,Hemocyanin,76 kDa,Food,black tiger shrimp,hemocyanin
+Pen m 8,Triosephosphate isomerase,27 kDa,Food,black tiger shrimp,triosephosphate isomerase
+Pers a 1,Class I chitinase,32 kDa,Food,avocado,chitinase
+Pha v 3,non-specific lipid transfer protein type 1,8.8-9.0 kDa,Food,kidney bean,lipid transfer protein
+Pho d 2,Profilin,14 kDa,Food,date palm,profilin
+Pin p 1,2S albumin,6 kDa (reducing) and 15 kDa (non-reducing),Food,pine,"2S albumin, conglutin"
+Pis s 1,Vicilin,44 kDa,Food,pea,"7S globulin, vicilin-like"
+Pis s 2,Convicilin,63 kDa,Food,pea,"11S globulin, cupin"
+Pis s 3,nsLTP,9.5 kDa,Food,pea,lipid transfer protein 
+Pis v 1,2S albumin,7 kDa,Food,pistachio,"2S albumin, conglutin"
+Pis v 2,11S globulin subunit,32 kDa,Food,pistachio,"11S globulin, cupin"
+Pis v 3,vicillin,55 kDa,Food,pistachio,"7S globulin, vicilin-like"
+Pis v 4,manganese superoxide dismutase,25.7 kDa,Food,pistachio,superoxide dismutase
+Pon l 4,Sarcoplasmic calcium-binding protein,~24 kDa,Food,Danube crayfish,"calcium-binding protein, sarcoplasmic calcium-binding protein"
+Por p 1,Tropomyosin,39 kDa,Food,blue swimmer crab,tropomyosin
+Pro c 1,Tropomyosin,36 kDa,Food,crayfish,tropomyosin
+Pro c 2,Arginine kinase,40 kDa,Food,crayfish,arginine kinase
+Pro c 5,Myosin light chain 1,18 kDa,Food,crayfish,myosin light chain
+Pro c 8,Triosephosphate isomerase,28 kDa,Food,crayfish,triosephosphate isomerase
+Pru ar 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",N.A.,Food,apricot,"pathogenesis related protein, PR-10, Bet v 1-like"
+Pru ar 3,Non-specific lipid transfer protein 1 (nsLTP1),9 kDa,Food,apricot,lipid transfer protein
+Pru ar 5,acidic protein Hev b 5-like,17.4 kDa,Food,apricot,"glutamic acid rich protein, Hev b 5-like"
+Pru av 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",9 kDa,Food,cherry,"pathogenesis related protein, PR-10, Bet v 1-like"
+Pru av 2,Thaumatin-like protein,23 kDa,Food,cherry,thaumatin-like
+Pru av 3,Non-specific lipid transfer protein 1 (nsLTP1),10 kDa,Food,cherry,lipid transfer protein
+Pru av 4,Profilin,15 kDa,Food,cherry,profilin
+Pru d 3,Non-specific lipid transfer protein 1 (nsLTP1),9 kDa,Food,plum,lipid transfer protein
+Pru du 1,"PR-10, Bet v 1-related protein",18 kDa,Food,almond plant hybrid,"pathogenesis related protein, PR-10, Bet v 1-like"
+Pru du 10,Mandelonitrile lyase 2; Hydroxynitrile lyase,60 kDa,Food,almond,"mandelonitrile lyase 2, partial from Q945K2.1"
+Pru du 10,Mandelonitrile lyase 2; Hydroxynitrile lyase,60 kDa,Food,almond,"mandelonitrile lyase 2, partial"
+Pru du 4,Profilin,14 kDa,Food,almond,profilin
+Pru du 6,"Amandin, 11S globulin, legumin-like protein",360 kDa (hexamer),Food,almond,"11S globulin, cupin"
+Pru du 6,"Amandin, 11S globulin, legumin-like protein",360 kDa (hexamer),Food,almond,"11S globulin, cupin, partial"
+Pru du 8,Alpha-hairpinin,31 kDa,Food,almond,cysteine-rich anti-microbial protein
+Pru du 8,Alpha-hairpinin,31 kDa,Food,almond,"cysteine-rich anti-microbial protein, partial from PQQ11123.1"
+Pru m 7,"gibberellin-regulated protein, peamaclein",6.9 kDa,Food,Japanese apricot,gibberellin-regulated protein
+Pru p 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",18 kDa,Food,peach,"pathogenesis related protein, PR-10, Bet v 1-like"
+Pru p 2,Thaumatin-like protein,25-28 kDa,Food,peach,thaumatin-like
+Pru p 2,Thaumatin-like protein,25-28 kDa,Food,plant hybrid,thaumatin-like
+Pru p 3,Non-specific lipid transfer protein 1 (nsLTP1),10 kDa,Food,peach,lipid transfer protein
+Pru p 4,Profilin,14 kDa,Food,peach,profilin
+Pru p 7,Gibberellin-regulated protein (PF02704),"6910.84 Da (mass spectrometry, mature protein)",Food,peach,gibberellin-regulated protein
+Pun g 1,Non-specific lipid transfer protein 1 (nsLTP1),9 kDa,Food,pomegranate,lipid transfer protein
+Pun g 14,Chitinase III,29 kDa,Food,pomegranate,"chitinase, partial from G1UH28.1"
+Pun g 7,Gibberellin regulated protein,7 kDa,Food,pomegranate,gibberellin-regulated protein
+Pyr c 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",18 kDa,Food,pear,"pathogenesis related protein, PR-10, Bet v 1-like"
+Pyr c 3,Nonspecific lipid-transfer protein 1,9 kDa,Food,pear,lipid transfer protein
+Pyr c 4,Profilin,14 kDa,Food,pear,profilin
+Pyr c 5,"Isoflavone reductase related protein, putative phenylcoumaran benzylic ether reductase",34 kDa,Food,pear,"isoflavon reductase-like protein, phenylcoumaran benzylic ether reductase"
+Ran e 1,Alpha-parvalbumin,11.9 kDa,Food,frog,"calcium-binding protein, parvalbumin"
+Ran e 2,Beta-parvalbumin,11.7 kDa,Food,frog,"calcium-binding protein, parvalbumin"
+Rap v 2,Paramyosin,99 kDa,Food,veined rapa whelk,"paramyosin, partial"
+Rap v 2,Paramyosin,99 kDa,Food,veined rapa whelk,"paramyosin, partial from QPB41107.1"
+Ras k 1,Parvalbumin,11.3 kDa,Food,Indian mackerel,"calcium-binding protein, parvalbumin"
+Ric c 1,2S albumin,11 kDa,Food,castor bean,"2S albumin, conglutin"
+Rub i 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",17 kDa,Food,raspberry,"pathogenesis related protein, PR-10, Bet v 1-like"
+Rub i 3,Non-specific lipid transfer protein 1 (nsLTP1),11 kDa,Food,raspberry,lipid transfer protein
+Sal s 1,Beta-parvalbumin 1,12 kDa,Food,salmon,"calcium-binding protein, parvalbumin"
+Sal s 2,Beta-Enolase,47.3 kDa,Food,salmon,enolase
+Sal s 3,Aldolase A,40 kDa,Food,salmon,aldolase
+Sar sa 1,Beta-parvalbumin,12 kDa,Food,South American pilchard,"calcium-binding protein, parvalbumin"
+Sco s 1,Parvalbumin,12 kDa,Food,Atlantic mackerel,"calcium-binding protein, parvalbumin"
+Scy p 1,Tropomyosin,38 kDa,Food,giant mud crab,tropomyosin
+Scy p 2,Arginine kinase,40 kDa,Food,green mud crab,arginine kinase
+Scy p 3,Myosin light chain,18 kDa,Food,green mud crab,myosin light chain
+Scy p 4,Sarcoplasmic Ca+ binding protein,20 kDa,Food,green mud crab,"calcium-binding protein, sarcoplasmic calcium-binding protein"
+Scy p 8,Triosephosphate isomerase,28 kDa,Food,green mud crab,triosephosphate isomerase
+Scy p 9,Filamin C,90 kDa,Food,green mud crab,filamin C
+Seb m 1,Beta-parvalbumin,11 kDa,Food,ocean perch (red fish),"calcium-binding protein, parvalbumin"
+Sec c 20,Gamma-secalin,70 kDa,Food,rye,"gamma secalin, partial"
+Ses i 1,2S albumin,9 kDa,Food,sesame,"2S albumin, conglutin"
+Ses i 2,2S albumin,7 kDa,Food,sesame,"2S albumin, conglutin"
+Ses i 3,7S vicilin-like globulin,45 kDa,Food,sesame,"7S globulin, vicilin-like"
+Ses i 4,oleosin,17 kDa,Food,sesame,oleosin
+Ses i 5,oleosin,15 kDa,Food,sesame,oleosin
+Ses i 6,11S globulin,52 kDa,Food,sesame,"11S globulin, cupin"
+Ses i 7,11S globulin,57 kDa,Food,sesame,"11S globulin, cupin"
+Sin a 1,2S albumin,14 kDa,Food,white mustard,"2S albumin, conglutin"
+Sin a 2,11S globulin (legumin-like) seed storage protein,51 kDa,Food,white mustard,"11S globulin, cupin"
+Sin a 3,non-specific lipid transfer protein type 1,12.3 kDa,Food,white mustard,lipid transfer protein
+Sin a 4,Profilin,13/14 kDa,Food,white mustard,profilin
+Sola l 1,Profilin,14 kDa,Food,tomato,profilin
+Sola l 2,Beta-fructofuranosidase,50 kDa,Food,tomato,beta-fructorfuranosidase
+Sola l 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food,tomato,lipid transfer protein
+Sola l 4,"Pathogenesis-related protein, PR-10, Bet v 1 family member, TSI-1",20 kDa,Food,tomato,"pathogenesis related protein, PR-10, Bet v 1-like"
+Sola l 6,Non-specific lipid transfer protein type 2 (nsLTP2),7 kDa,Food,tomato,lipid transfer protein
+Sola l 7,nsLTP type 1,12.5 kDa (SDS PAGE reducing),Food,tomato,lipid transfer protein
+Sola m 1,Profilin,17 kDa,Food,eggplant,profilin
+Sola t 1,Patatin,43 kDa,Food,potato,patatin
+Sola t 2,Cathepsin D inhibitor PDI,21 kDa,Food,potato,aspartic protease inhibitor
+Sola t 3,Cysteine protease inhibitor,21 kDa,Food,potato,cysteine protease inhibitor
+Sola t 4,Serine protease inhibitor 7,16 kDa,Food,potato,serine protease inhibitor
+Sus s 1,Serum albumin,60 kDa,Food,wild boar,serum albumin
+Thu a 2,Beta-enolase,50 kDa,Food,yellowfin tuna,enolase
+Thu a 3,Aldolase A,40 kDa,Food,yellowfin tuna,aldolase
+Tri a 12,Profilin,14 kDa,Food,wheat,profilin
+Tri a 12,Profilin,14 kDa,Food,wheat,"profilin, partial"
+Tri a 17,beta-amylase,56 kDa,Food,wheat,beta-amylase
+Tri a 19,Omega-5 gliadin,65 kDa,Food,wheat,omega-5 gliadin
+Tri a 19,Omega-5 gliadin,65 kDa,Food,wheat,"omega-5 gliadin, partial from AAT01617.1"
+Tri a 20,Gamma gliadin,35 to 38 kDa,Food,wheat,gamma-gliadin
+Tri a 25,Thioredoxin,,Food,wheat,thioredoxin
+Tri a 26,High molecular weight glutenin,88 kDa,Food,wheat,HMW glutenin
+Tri a 26,High molecular weight glutenin,88 kDa,Food,wheat,"HMW glutenin, partial"
+Tri a 36,Low molecular weight glutenin,40 kDa,Food,wheat,LMW glutenin
+Tri a 37,Alpha purothionin,12 kDa,Food,wheat,alpha-purothionin
+Tri tu 14,nsLipid transfer protein 1,9.2 kDa,Food,wheat,lipid transfer protein
+Vig r 1,"Pathogenesis-related protein, PR-10, Bet v 1 family member",16 kDa,Food,mung bean,"pathogenesis related protein, PR-10, Bet v 1-like"
+Vig r 2,8S Globulin (Vicilin),52 kDa,Food,mung bean,"8S globulin, vicilin"
+Vig r 4,Seed albumin,30 kDa,Food,mung bean,"2S albumin, conglutin"
+Vig r 6,"Cytokinin-specific binding protein (CSBP), Bet v 1 family member",18 kDa,Food,mung bean,"pathogenesis related protein, PR-10, Bet v 1-like"
+Xip g 1,Beta-parvalbumin,11.5 kDa,Food,swordfish,"calcium-binding protein, parvalbumin"
+Zea m 14,Nonspecific lipid-transfer protein 1,9 kDa,Food,corn,lipid transfer protein
+Zea m 8,Class IV chitinase,28.6 kDa,Food,corn,chitinase
+Ziz m 1,Class III chitinase,30 kDa,Food,Chinese-date,chitinase
+Pis v 5,11S globulin subunit,36 kDa (acidic subunit),Food,Pistachio,
+Pan h 7,Creatine kinase,43 KDa,Food,Striped catfish,
+Hal m 1,,49 kDa,Food,Perlemoen abalone,
+Art fr 5,"Myosin, light chain 1",~17.5 kDa,Food,Brine shrimp,
+Pan h 11,Glucose 6-phosphate isomerase,60 kDa,Food,Striped catfish,
+Cit r 3,Non-specific lipid transfer protein type 1,9 kDa,Food,Tangerine,
+Pan h 1,Parvalbumin beta,11 kDa,Food,Striped catfish,
+Pru du 3,Non-specific lipid transfer protein 1 (nsLTP1),9 kDa,Food,nsLTP1,
+Hal l 1,Tropomyosin,33.4 kDa,Food,Jade tiger abaolone,
+Bomb m 5,30 kDa Lipoprotein 6,29 kDa,Food,Silk moth,
+Cic a 1,Late embryogenesis protein 4,42 kDa,Food,Chickpea,
+Mac r 2,Arginine Kinase,40 kDa,Food,giant freshwater prawn,
+Pru av 7,Gibberellin-regulated protein,9 kDa,Food,Sweet cherry,
+Hor v 1,deleted (identical to Hor v 15); designation reserved for beta-expansin pollen allergen,,Food,Barley,
+Act d 6,Pectin methylesterase inhibitor,18 kDa,Food,Green kiwi fruit,
+Sole s 1,Parvalbumin,11-14 kDa,Food,Sole,
+Vit v 1,Non-specific lipid transfer protein 1 (nsLTP1),9 kDa,Food,Grape,
+Act d 7,Pectin methylesterase,50 kDa,Food,Green kiwi fruit,
+Cas s 8,Non-specific lipid transfer protein type 1,"12-13 kDa (non-red), 9 kDa (red)",Food,Chestnut,
+Sola l 5,Cyclophilin,19 kDa,Food,Tomato,
+Pan h 4,Tropomyosin alpha,35 kDa,Food,Striped catfish,
+Thu a 1,Beta-parvalbumin,11 kDa,Food,Yellowfin tuna,
+Zan b 1,2S albumin,14 kDa (non-reducing); 4 kDa and 10 kDa (reducing),Food,Sichuan pepper,
+Sac g 1,Tropomyosin,38 kDa,Food,Sydney rock oyster,
+Pon l 7,Troponin I,~30 kDa,Food,Narrow-clawed crayfish,
+Cro p 1,beta-parvalbumin,11.6 kDa,Food,Australian saltwater crocodile,
+Jug r 8,Non-specific lipid transfer protein type 2; ns-LTP-2,9 kDa,Food,English walnut,
+Para c 11,Mitochondrial malate dehydrogenase,39 kDa,Food,Red king crab,
+Fra a 4,Profilin,13 kDa,Food,Strawberry,
+Asc s 13,Glutathione S-transferase,23 kDa,Food,Pig roundworm,
+Hom a 3,Myosin light chain 2,~23 kDa,Food,American lobster,
+Por t 4,Sarcoplasmic Ca-binding protein (SCP),22 kDa,Food,Gazami crab,
+Lac s 1,Non-specific lipid transfer protein,9 kDa,Food,Cultivated lettuce,
+Bos d 7,Immunoglobulin,160 kDa,Food,Domestic cattle,
+Pan h 9,Pyruvate kinase PKM-like,65 kDa,Food,Striped catfish,
+Lat c 6,Collagen alpha,130 kDa to 140 kDa,Food,Barramundi,
+Pana g 1,"Pathogenesis-related protein PR-10-1, Bet v 1-related protein, ribonuclease 1",17 kDa,Food,Korean ginseng,
+Pen i 1,Tropomyosin,34 kDa,Food,Shrimp,
+Len c 2,Seed-specific biotinylated protein,66 kDa,Food,Lentil,
+Pin k 2,Vicilin,48 kDa,Food,Korean pine,
+Hom a 6,Troponin C,~20 kDa,Food,American lobster,
+Zan b 2,11S globulin seed storage protein; legumin,"50 kDa non reducingh, 22.3 kDa reducing",Food,Sichuan pepper,
+Sal s 6,Collagen alpha,130-140 kDa,Food,Atlantic salmon,
+Sal s 8,Triosephosphate isomerase,25 kDa,Food,Atlantic salmon,
+Arc s 8,Triosephosphate isomerase,~28 kDa,Food,Crayfish,
+Mus a 3,Non-specific lipid transfer protein type 1 (nsLTP1),9 kDa,Food,nsLTP1,
+Tod p 1,Tropomyosin,38 kDa,Food,Japanese flying squid,
+Hel a 17,"2S albumin seed storage protein, SFA-8 (SESA3)",10 kDa,Food,Sunflower,
+Vig r 5,Identified as fragment of Vig r 2; number not available for future submissions,18 kDa,Food,Mung bean,
+Pen a 1,Tropomyosin,36 kDa,Food,Brown shrimp,
+Api g 3,"Chlorophyll a-b binding protein, chloroplast",28 kDa,Food,Celery,
+Cic a 1 1,Late embryogenesis protein 4,42 kDa,Food,Chickpea,
+Hel a 16,"2S albumin seed storage protein, SESA20-2",15 kDa,Food,Sunflower,
+Pan h 2,beta-enolase,50 kDa,Food,Striped catfish,
+Pan h 3,Aldolase A,40 kDa,Food,Striped catfish,
+Vig r 3,Renamed to Vig r 2.0201; number not available for future submissions,50 kDa,Food,Mung bean,
+Late m 1,Parvalbumin,12 and 13 kDa,Food,Asian spotted seabass,
+Jug r 7,Profilin,13 kDa,Food,English walnut,
+Pan h 10,L-lactate dehydrogenase,34 kDa,Food,Striped catfish,
+Sal s 7,Creatine kinase,43 kDa,Food,Atlantic salmon,
+Bos d 8,Caseins (for individual components see Bos d 9-Bos d 12),20-30 kDa,Food,Domestic cattle,
+Cas s 9,Cytosolic class I small heat shock protein; Hsp20,17 kDa,Food,Chestnut,
+Ara h 4,"renamed to Ara h 3.02, number not available for future submissions",,Food,"Peanut, groundnut",
+Ara h 16,Non-specific lipid transfer protein type 2; nsLTP-2,8.5 kDa by SDS PAGE reducing,Food,"Peanut, groundnut",
+Bra o 3,non-specific lipid transfer protein type 1,9 kDa,Food,Cabbage,
+Pap s 1,Vicilin (7S globulin) with N-terminal alpha-hairpinin peptides,"10 kDa, 17 kDa (alpha-hairpinins), 50 kDa (vicilin)",Food,Opium poppy,
+Asc l 5,,14 kDa,Food,Common roundworm,
+Hel a 15,"2S albumin seed storage protein, SESA2-1",14 kDa,Food,Sunflower,
+Ara h 17,"Non-specific lipid transfer protein type 1, nsLTP-1",11 kDa by SDS-PAGE reducing,Food,"Peanut, groundnut",
+Ani s 13,Hemoglobin,37 kDa,Food,Herring worm,
+Bomb m 6,Hemolymph lipoprotein 3,28 kDa,Food,Silk moth,
+Hor v 12,Profilin,14 kDa,Food,Barley,
+Tri a 18,Agglutinin isolectin 1,,Food,Wheat,
+Cro p 2,alpha-parvalbumin,13 kDa,Food,Australian saltwater crocodile,
+Mus a 6,ascorbate peroxidase,27 kDa,Food,Banana,
+Hor v 17,Beta-amylase,,Food,Barley,
+Bac s 1,Nattokinase (subtilisin-like serine protease),30 kDa,Food,Hay bacillus,
+Pru du 5,60s acidic ribosomal prot. P2,10 kDa,Food,Almond,
+Pan h 13,Glyceraldehyde-3-phosphate dehydrogenase,36 kDa,Food,Striped catfish,
+Pan h 8,Triosephosphate isomerase,25 kDa,Food,Striped catfish,
+Tric l 1,Parvalbumin,11 kGa,Food,"Atlantic cutlassfish, largehead hairtail",
+Pap s 2,Legumin (11S globulin) seed storage protein,"52 kDa (non-reducing), 30 kDa + 20 kDa (reducing)",Food,Opium poppy,
+Pap s 3,Late embryogenesis abundant protein 5 (LEA-5); small hydrophilic seed protein,10 kDa,Food,Opium poppy,
+Hor v 16,Alpha-amylase,,Food,Barley,
+Cha f 10,Fructose bisphosphate aldolase,41 kDa,Food,Crucifix crab,
+Act d 13,2S albumin,"11,359,6 Da (mass spectrometry)",Food,Green kiwi fruit,
+Aspa o 1,Non-specific lipid transfer protein type 1,9 kDa,Food,Asparagus,
+Cra a 1,Tropomyosin,38 kDa,Food,Portuguese oyster,
+Sal s 4,Tropomyosin,37 kDa,Food,Atlantic salmon,
